@@ -170,7 +170,7 @@ h1 {
 }
 
 .red:hover {
-	border: #0fadea;
+	border-color: #0fadea;
 	background: #0fadea;
 	color: #fff;
 }
