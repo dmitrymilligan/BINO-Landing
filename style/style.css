@@ -253,8 +253,9 @@ h1 {
 
 .min-divider {
 	width: 38px;
-	color: #888888;
-	border-bottom: 1px solid #e1e1e1;
+	height: 1px;
+	background: #888888;
+	border: none;
 }
 
 .active {
@@ -283,6 +284,7 @@ h1 {
 .our-history hr {
 	height: 1px;
 	border: none;
+	background: #888888;
 	width: 100%;
 	margin: 9px 0 0 0;
 	display: inline-block;
